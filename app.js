@@ -426,12 +426,12 @@ function renderLogin() {
           <div class="brand">
             <div class="brand-badge">AF</div>
             <div>
-              <h1>Addvantage For You</h1>
-              <p>PEP-Choices learning and mentoring portal</p>
+              <h1>Efficas</h1>
+              <p>Learning and Mentoring portal</p>
             </div>
           </div>
-          <h1>Support reflection, growth, and measurable progress.</h1>
-          <p>This free-hosting version is a complete frontend app that demonstrates the full workflow in one deployable package.</p>
+          <h1>Knowledge, Mindset and Know-How to succeeed.</h1>
+         
           <ul>
             <li>Student dashboard with report insights</li>
             <li>Assignment planning, review, and iteration</li>
